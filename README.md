@@ -1,8 +1,8 @@
 ### Hi there 👋
-🌱 I’m currently learning Python 
-🔭 I’m currently studying on Electrical Elektronics Engineering
-🤔 I’m looking for help with Database Management, SQL and MS Excel
-⚡ Fun fact: I'm Interested in Cyber Security
+-🌱 I’m currently learning Python 
+-🔭 I’m currently studying on Electrical Elektronics Engineering
+-🤔 I’m looking for help with Database Management, SQL and MS Excel
+-⚡ Fun fact: I'm Interested in Cyber Security
 
 <!--
 **emreercn/emreercn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

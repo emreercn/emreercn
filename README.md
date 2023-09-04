@@ -1,6 +1,6 @@
 ### Hi there 👋
 -🌱 I’m currently learning Python   
--🔭 I’m currently studying on Electrical Elektronics Engineering  
+-🔭 I’m currently studying on Electronics Engineering  
 -🤔 I’m looking for help with Database Management, SQL and MS Excel  
 -⚡ Fun fact: I'm Interested in Cyber Security  
 
